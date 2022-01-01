@@ -9,7 +9,7 @@
 
 #### 2. 2011-2020 植物保护 WOS 高被引文献
 
-链接：[wos highly cited papers](./wos highly%20cited%20papers)
+链接：[wos highly cited papers](./wos%20highly%20cited%20papers)
 
 #### 3. 代码分析输出数据
 
