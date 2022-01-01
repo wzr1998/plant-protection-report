@@ -5,15 +5,15 @@
 
 ### 1. 2011-2020 植物保护学科 SciVal 数据
 
-链接：[scival data](./scival%20data)
+链接：[scival data](https://github.com/wzr1998/plant-protection-report/tree/main/SciVal%20data)
 
 ### 2. 2011-2020 植物保护 WOS 高被引文献
 
-链接：[wos highly cited papers](./wos%20highly%20cited%20papers)
+链接：[wos highly cited papers](https://github.com/wzr1998/plant-protection-report/tree/main/WOS%20Highly%20Cited%20Papers)
 
 ### 3. 代码分析输出数据
 
-链接：[analysis data output](./analysis%20data%20output)
+链接：[analysis data output](https://github.com/wzr1998/plant-protection-report/tree/main/analysis%20data%20output)
 
 ### 4. 文件下载方法
 
@@ -21,7 +21,7 @@
 
 ## 二、核心代码：
 
-### 1. [scival analyse.py](./scival%20analyse.py) 
+### 1. [scival analyse.py](https://github.com/wzr1998/plant-protection-report/blob/main/SciVal%20analyse.py) 
 
 SciVal 数据主要分析代码，重要代码如下：
 
