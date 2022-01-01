@@ -1,7 +1,7 @@
 # plant-protection-report
 植物保护发展报告数据与源代码 ——2021情报学方法与技术
 
-### 数据：
+### 一、数据：
 
 #### 1. 2011-2020 植物保护学科 SciVal 数据
 
@@ -15,7 +15,7 @@
 
 链接：[analysis data output](./analysis%20data%20output)
 
-### 核心代码：
+### 二、核心代码：
 
 #### 1. [scival analyse.py](./scival%20analyse.py) 
 
