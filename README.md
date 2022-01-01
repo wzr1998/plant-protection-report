@@ -15,6 +15,10 @@
 
 链接：[analysis data output](./analysis%20data%20output)
 
+### 4. 文件下载方法
+
+![下载](/image.png")
+
 ## 二、核心代码：
 
 ### 1. [scival analyse.py](./scival%20analyse.py) 
