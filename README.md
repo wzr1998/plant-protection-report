@@ -5,19 +5,19 @@
 
 #### 1. 2011-2020 植物保护学科 SciVal 数据
 
-链接：[SciVal data](./SciVal data/)
+链接：[scival data](./scival data)
 
 #### 2. 2011-2020 植物保护 WOS 高被引文献
 
-链接：[WOS Highly Cited Papers](./WOS Highly Cited Papers/)
+链接：[wos highly cited papers](./wos highly cited papers)
 
 #### 3. 代码分析输出数据
 
-链接：[analysis data output](./analysis data output/)
+链接：[analysis data output](./analysis data output)
 
 ### 核心代码：
 
-#### 1. [SciVal analyse.py](./SciVal analyse.py) 
+#### 1. [scival analyse.py](./scival analyse.py) 
 
 SciVal 数据主要分析代码，重要代码如下：
 
